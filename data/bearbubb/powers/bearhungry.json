@@ -1,0 +1,7 @@
+{
+    "type": "origins:exhaust",
+    "interval": 20,
+    "exhaustion": 0.812,
+    "name": "Hunger",
+    "description": "Being really big, you need to eat more."
+  }

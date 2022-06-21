@@ -1,0 +1,11 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Natural Armor health bonus",
+        "attribute": "minecraft:generic.armor",
+        "value": 4,
+        "operation": "addition"
+    },
+    "name": "Fur",
+    "description": "Your Fur protects you from damage, giving you 2 armor points and 5 hearts."
+}

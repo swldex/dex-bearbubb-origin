@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"bearbubb:bearskin",
+		"bearbubb:britrain",
+		"bearbubb:yarmor",
+		"bearbubb:ylife",
+		"bearbubb:yslow",
+		"bearbubb:ywide",
+		"bearbubb:bearjump",
+		"bearbubb:bearstrenght",
+		"bearbubb:bearhungry"
+	],
+	"icon": "minecraft:honey_block",
+	"order": 1,
+	"impact": 3,
+	"name": "Yellow Bear",
+	"description": "You're a big ol' bear!"
+}

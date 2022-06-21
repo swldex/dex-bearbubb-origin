@@ -1,0 +1,12 @@
+{
+    "type": "origins:launch",
+    "cooldown": 20,
+    "sound": "minecraft:entity.parrot.fly",
+    "speed": 0.7,
+    "key": {
+      "key": "key.origins.primary_active",
+      "continuous": true
+    },
+    "name": "Big Jump",
+    "description": "You can jump really high if you press the Action Key!"
+  }

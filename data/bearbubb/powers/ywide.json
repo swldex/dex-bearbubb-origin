@@ -1,0 +1,26 @@
+{
+    "name": "Daddy Bear",
+    "description": "I don't know why I'm calling this Daddy Bear, my friend Daird said I had to name it this. You're big and really slow tho.",
+	"type": "origins:action_on_callback",
+    "entity_action_chosen": {
+		"type": "origins:and",
+		"actions": [
+		{
+			"type": "origins:execute_command",
+			"command": "scale set pehkui:height 1.4 @s"
+		},
+		{
+			"type": "origins:execute_command",
+			"command": "scale set pehkui:width 1.4 @s"
+		},
+		{
+			"type": "origins:execute_command",
+			"command": "scale persist set true @s"
+		}
+		]
+    },
+    "entity_action_lost": {
+        "type": "origins:execute_command",
+        "command": "scale reset @s"
+}
+}
